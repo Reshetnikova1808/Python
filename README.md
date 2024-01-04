@@ -1,5 +1,5 @@
 # Стек
-Python, Pandas, Seaborn, Matplotlib.pyplot, Numpy
+Python, Jupiter notebook, Pandas, Seaborn, Matplotlib.pyplot, Numpy
 
 # Python
 
